@@ -12,5 +12,5 @@ This is a simple blog with fixed sub headings which help a user form content. Th
 
 ## Proof of Concept
 
-This application can be seen here: https://guarded-peak-44051.herokuapp.com/blog
+This application can be seen here: https://guarded-peak-44051.herokuapp.com/
 
