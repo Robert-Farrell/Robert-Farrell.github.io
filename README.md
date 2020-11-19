@@ -14,3 +14,5 @@ This is a simple blog with fixed sub headings which help a user form content. Th
 
 ~~This application can be seen here: https://guarded-peak-44051.herokuapp.com/~~
 Previous blog was created in Angular 8, however updating to 9 introduced some breaking changes so I decided to redo the blog from the ground up in React, source code is currently sitting in a private repo but I should move it to public once it's complete
+
+Update: Here is the blog running on a MERN stack: https://blogbert.herokuapp.com/
